@@ -1,0 +1,38 @@
+05-17 02:39:24.457 [scrpt.cmpl] Compiling 'Youi TV', id 'dev'
+05-17 02:39:24.468 [scrpt.load.mkup] Loading markup dev 'Youi TV'
+05-17 02:39:24.477 [scrpt.parse.mkup.time] Parsed markup dev 'Youi TV' in 9 milliseconds
+
+------ Compiling dev 'Youi TV' ------
+05-17 02:39:24.584 [scrpt.ctx.cmpl.time] Compiled 'Youi TV', id 'dev' in 106 milliseconds
+05-17 02:39:24.586 [scrpt.proc.mkup.time] Processed markup dev 'Youi TV' in 0 milliseconds
+05-17 02:39:24.589 [ui.frm.plugin.running.enter] Entering PLUGIN_RUNNING for dev
+05-17 02:39:26.070 [scrpt.ctx.run.enter] UI: Entering 'Youi TV', id 'dev'
+
+------ Running dev 'Youi TV' main ------
+[2019-05-17 02:39:26.299Z] ----------------Device Info----------------
+[2019-05-17 02:39:26.300Z] Model: 4660X ChannelClientId: 87a99f5b-6d75-5e04-a564-4155d3eec379
+[2019-05-17 02:39:26.301Z] Firmware Version: 9.00 Build: 4142
+[2019-05-17 02:39:26.301Z] DisplayMode: 720p DisplayAspectRatio: 16x9
+[2019-05-17 02:39:26.302Z] DisplaySize: (1280, 720)
+[2019-05-17 02:39:26.302Z] -------------------------------------------
+[2019-05-17 02:39:26.302Z] Starting the app...
+[2019-05-17 02:39:26.304Z] Initializing Ads: Ads
+[2019-05-17 02:39:26.304Z] ### STARTING.
+[2019-05-17 02:39:26.304Z] Establishing TCP Connection with 192.168.1.28
+[2019-05-17 02:39:26.305Z] Attempting Connection To: 192.168.1.28:54323
+[2019-05-17 02:39:26.555Z] Attempting Connection To: 192.168.1.28:54323
+[2019-05-17 02:39:26.807Z] Sending {"advertisingid":"e63a4f5d-97cd-5556-a3b9-a9845312a0eb","command":"start","event":"command","externalip":"76.121.246.73","firmwareversion":"9.00 Build: 4142","friendlyname":"Roku Ultra","header":{"cloud_client_version":10,"minimum_cloud_server_version":10},"host":"192.168.1.28","manufacturer":"Roku","osname":"RokuOS","rokumodel":"4660X","serialnumber":"87a99f5b-6d75-5e04-a564-4155d3eec379"} over TCP connection
+Sent 394 / 394 bytes over TCP connection
+[2019-05-17 02:39:26.808Z] Failed to send visitor ID. ID is empty
+[2019-05-17 02:39:26.809Z] Sending {"event":"persistentStore"} over TCP connection
+Sent 28 / 28 bytes over TCP connection
+[2019-05-17 02:39:26.809Z] Initialization complete.
+[2019-05-17 02:39:27.171Z] Sending {"event":"ready"} over TCP connection
+Sent 18 / 18 bytes over TCP connection
+[2019-05-17 02:39:27.186Z] Spinner Status: showWaitSpinner
+[2019-05-17 02:39:27.187Z] showWaitSpinner
+[2019-05-17 02:39:46.303Z] Sending {"event":"ping"} over TCP connection
+Sent 17 / 17 bytes over TCP connection
+[2019-05-17 02:40:06.303Z] Sending {"event":"ping"} over TCP connection
+Sent 0 / 17 bytes over TCP connection
+[2019-05-17 02:40:06.314Z] ERROR: Lost the TCP connection in ProcessSocketEvent. Error code is 32

@@ -1,0 +1,5 @@
+node_modules/
+youi/build/
+
+**/.DS_store
+rokuclient/RokuClient.zip

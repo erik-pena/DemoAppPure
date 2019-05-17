@@ -1,0 +1,190 @@
+2019-05-16 19:38:51.612920-0700 DemoAppPure[5415:2374666]  I/CYICloud: EnableClientInterface.
+2019-05-16 19:38:51.613259-0700 DemoAppPure[5415:2374666]  I/CYIPersistentStorePriv_Cloud: Registering custom CloudPersistenStoreCreateFunction
+2019-05-16 19:38:51.613296-0700 DemoAppPure[5415:2374666]  I/CYIAbstractCloudInterface: CYIAbstractCloudInterface created.
+2019-05-16 19:38:51.818917-0700 DemoAppPure[5415:2374666]  D/CYIGL: Detected OpenGL 2.1
+2019-05-16 19:38:51.818947-0700 DemoAppPure[5415:2374666]  D/CYIGL: Version: 2.1 ATI-2.4.10
+2019-05-16 19:38:51.818960-0700 DemoAppPure[5415:2374666]  D/CYIGL: Vendor: ATI Technologies Inc.
+2019-05-16 19:38:51.818986-0700 DemoAppPure[5415:2374666]  D/CYIGL: Renderer: AMD Radeon Pro 560X OpenGL Engine
+2019-05-16 19:38:51.818999-0700 DemoAppPure[5415:2374666]  D/CYIGL: Shading Language Version: 1.20
+2019-05-16 19:38:51.819061-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_color_buffer_float
+2019-05-16 19:38:51.819105-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_depth_buffer_float
+2019-05-16 19:38:51.819118-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_depth_clamp
+2019-05-16 19:38:51.819143-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_depth_texture
+2019-05-16 19:38:51.819155-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_draw_buffers
+2019-05-16 19:38:51.819165-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_draw_elements_base_vertex
+2019-05-16 19:38:51.819177-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_draw_instanced
+2019-05-16 19:38:51.819296-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_fragment_program
+2019-05-16 19:38:51.819317-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_fragment_program_shadow
+2019-05-16 19:38:51.819330-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_fragment_shader
+2019-05-16 19:38:51.819356-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_framebuffer_object
+2019-05-16 19:38:51.819367-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_framebuffer_sRGB
+2019-05-16 19:38:51.819399-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_half_float_pixel
+2019-05-16 19:38:51.819424-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_half_float_vertex
+2019-05-16 19:38:51.819434-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_imaging
+2019-05-16 19:38:51.819472-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_instanced_arrays
+2019-05-16 19:38:51.819499-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_multisample
+2019-05-16 19:38:51.819882-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_multitexture
+2019-05-16 19:38:51.819900-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_occlusion_query
+2019-05-16 19:38:51.819942-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_pixel_buffer_object
+2019-05-16 19:38:51.819954-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_point_parameters
+2019-05-16 19:38:51.819980-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_point_sprite
+2019-05-16 19:38:51.820006-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_provoking_vertex
+2019-05-16 19:38:51.820053-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_seamless_cube_map
+2019-05-16 19:38:51.820065-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_shader_objects
+2019-05-16 19:38:51.820091-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_shader_texture_lod
+2019-05-16 19:38:51.820123-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_shading_language_100
+2019-05-16 19:38:51.820172-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_shadow
+2019-05-16 19:38:51.820209-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_shadow_ambient
+2019-05-16 19:38:51.820222-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_sync
+2019-05-16 19:38:51.820248-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_border_clamp
+2019-05-16 19:38:51.820283-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_compression
+2019-05-16 19:38:51.820314-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_compression_rgtc
+2019-05-16 19:38:51.820346-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_cube_map
+2019-05-16 19:38:51.820358-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_env_add
+2019-05-16 19:38:51.820381-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_env_combine
+2019-05-16 19:38:51.820394-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_env_crossbar
+2019-05-16 19:38:51.820440-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_env_dot3
+2019-05-16 19:38:51.820452-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_float
+2019-05-16 19:38:51.820465-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_mirrored_repeat
+2019-05-16 19:38:51.820476-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_non_power_of_two
+2019-05-16 19:38:51.820488-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_rectangle
+2019-05-16 19:38:51.820514-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_texture_rg
+2019-05-16 19:38:51.820545-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_transpose_matrix
+2019-05-16 19:38:51.820572-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_vertex_array_bgra
+2019-05-16 19:38:51.820654-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_vertex_blend
+2019-05-16 19:38:51.820668-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_vertex_buffer_object
+2019-05-16 19:38:51.820681-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_vertex_program
+2019-05-16 19:38:51.820692-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_vertex_shader
+2019-05-16 19:38:51.820704-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ARB_window_pos
+2019-05-16 19:38:51.820715-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_abgr
+2019-05-16 19:38:51.820727-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_bgra
+2019-05-16 19:38:51.820738-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_bindable_uniform
+2019-05-16 19:38:51.820750-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_blend_color
+2019-05-16 19:38:51.820762-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_blend_equation_separate
+2019-05-16 19:38:51.820775-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_blend_func_separate
+2019-05-16 19:38:51.820786-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_blend_minmax
+2019-05-16 19:38:51.820797-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_blend_subtract
+2019-05-16 19:38:51.820809-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_clip_volume_hint
+2019-05-16 19:38:51.820820-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_debug_label
+2019-05-16 19:38:51.820831-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_debug_marker
+2019-05-16 19:38:51.820843-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_depth_bounds_test
+2019-05-16 19:38:51.820854-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_draw_buffers2
+2019-05-16 19:38:51.820866-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_draw_range_elements
+2019-05-16 19:38:51.820889-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_fog_coord
+2019-05-16 19:38:51.820909-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_framebuffer_blit
+2019-05-16 19:38:51.820923-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_framebuffer_multisample
+2019-05-16 19:38:51.820935-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_framebuffer_object
+2019-05-16 19:38:51.820946-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_framebuffer_sRGB
+2019-05-16 19:38:51.820958-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_geometry_shader4
+2019-05-16 19:38:51.820970-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_gpu_program_parameters
+2019-05-16 19:38:51.820982-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_gpu_shader4
+2019-05-16 19:38:51.820993-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_multi_draw_arrays
+2019-05-16 19:38:51.821005-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_packed_depth_stencil
+2019-05-16 19:38:51.821017-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_packed_float
+2019-05-16 19:38:51.821059-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_provoking_vertex
+2019-05-16 19:38:51.821077-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_rescale_normal
+2019-05-16 19:38:51.821090-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_secondary_color
+2019-05-16 19:38:51.821102-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_separate_specular_color
+2019-05-16 19:38:51.821114-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_shadow_funcs
+2019-05-16 19:38:51.821126-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_stencil_two_side
+2019-05-16 19:38:51.821137-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_stencil_wrap
+2019-05-16 19:38:51.821155-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_array
+2019-05-16 19:38:51.821170-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_compression_dxt1
+2019-05-16 19:38:51.821182-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_compression_s3tc
+2019-05-16 19:38:51.821193-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_env_add
+2019-05-16 19:38:51.821205-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_filter_anisotropic
+2019-05-16 19:38:51.821216-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_integer
+2019-05-16 19:38:51.821228-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_lod_bias
+2019-05-16 19:38:51.821239-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_mirror_clamp
+2019-05-16 19:38:51.821251-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_rectangle
+2019-05-16 19:38:51.821275-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_shared_exponent
+2019-05-16 19:38:51.821286-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_sRGB
+2019-05-16 19:38:51.821386-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_texture_sRGB_decode
+2019-05-16 19:38:51.821400-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_timer_query
+2019-05-16 19:38:51.821411-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_transform_feedback
+2019-05-16 19:38:51.821423-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_EXT_vertex_array_bgra
+2019-05-16 19:38:51.821435-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_aux_depth_stencil
+2019-05-16 19:38:51.821447-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_client_storage
+2019-05-16 19:38:51.821459-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_element_array
+2019-05-16 19:38:51.821470-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_fence
+2019-05-16 19:38:51.821482-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_float_pixels
+2019-05-16 19:38:51.821494-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_flush_buffer_range
+2019-05-16 19:38:51.821505-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_flush_render
+2019-05-16 19:38:51.821530-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_object_purgeable
+2019-05-16 19:38:51.821561-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_packed_pixels
+2019-05-16 19:38:51.821572-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_pixel_buffer
+2019-05-16 19:38:51.821597-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_rgb_422
+2019-05-16 19:38:51.821628-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_row_bytes
+2019-05-16 19:38:51.821639-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_specular_vector
+2019-05-16 19:38:51.821665-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_texture_range
+2019-05-16 19:38:51.821695-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_transform_hint
+2019-05-16 19:38:51.821706-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_vertex_array_object
+2019-05-16 19:38:51.821842-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_vertex_array_range
+2019-05-16 19:38:51.821860-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_vertex_point_size
+2019-05-16 19:38:51.821874-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_vertex_program_evaluators
+2019-05-16 19:38:51.821887-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_APPLE_ycbcr_422
+2019-05-16 19:38:51.821913-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_blend_equation_separate
+2019-05-16 19:38:51.821945-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_blend_weighted_minmax
+2019-05-16 19:38:51.821957-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_separate_stencil
+2019-05-16 19:38:51.821982-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_texture_compression_3dc
+2019-05-16 19:38:51.822014-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_texture_env_combine3
+2019-05-16 19:38:51.822058-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_texture_float
+2019-05-16 19:38:51.822076-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_ATI_texture_mirror_once
+2019-05-16 19:38:51.822089-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_IBM_rasterpos_clip
+2019-05-16 19:38:51.822102-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_blend_square
+2019-05-16 19:38:51.822128-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_conditional_render
+2019-05-16 19:38:51.822159-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_depth_clamp
+2019-05-16 19:38:51.822184-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_fog_distance
+2019-05-16 19:38:51.822198-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_light_max_exponent
+2019-05-16 19:38:51.822217-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_texgen_reflection
+2019-05-16 19:38:51.822230-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_NV_texture_barrier
+2019-05-16 19:38:51.822242-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_SGI_color_matrix
+2019-05-16 19:38:51.822268-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_SGIS_generate_mipmap
+2019-05-16 19:38:51.822293-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_SGIS_texture_edge_clamp
+2019-05-16 19:38:51.822305-0700 DemoAppPure[5415:2374666]  D/CYIGL: Extension: GL_SGIS_texture_lod
+2019-05-16 19:38:52.010755-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_EXT_texture_rectangle is unsupported.
+2019-05-16 19:38:52.010836-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_APPLE_flush_render is unsupported.
+2019-05-16 19:38:52.010896-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_APPLE_packed_pixels is unsupported.
+2019-05-16 19:38:52.010939-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_APPLE_pixel_buffer is unsupported.
+2019-05-16 19:38:52.010987-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_APPLE_vertex_point_size is unsupported.
+2019-05-16 19:38:52.011013-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_ATI_blend_equation_separate is unsupported.
+2019-05-16 19:38:52.011038-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_ATI_blend_weighted_minmax is unsupported.
+2019-05-16 19:38:52.011066-0700 DemoAppPure[5415:2374666]  W/CYIGL: GL_ATI_texture_compression_3dc is unsupported.
+2019-05-16 19:38:52.011392-0700 DemoAppPure[5415:2374666] CYIApp: You.i Engine Version: 5.2.0
+2019-05-16 19:38:52.011422-0700 DemoAppPure[5415:2374666] CYIApp: You.i Engine Build Date: May 13 2019 09:53:23
+2019-05-16 19:38:52.011434-0700 DemoAppPure[5415:2374666] CYIApp: You.i Engine Git SHA-1: e20d30b3af113ea403a18eb317c7cc7df8b361d6
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+[2019-05-17 02:38:52:591]  I/CYICloudContext: Init
+[2019-05-17 02:38:52:591]  I/CYICloudContext: Cloud server version: 10
+[2019-05-17 02:38:52:635]  I/CYIAssetLocator: Asset search paths for: drawable
+[2019-05-17 02:38:52:635]  I/CYIAssetLocator:         default
+[2019-05-17 02:38:52:635]  I/CYIAssetLocator: Asset search paths for: layout
+31457280
+[2019-05-17 02:38:52:635]  I/CYIAssetLocator:         default
+[2019-05-17 02:38:52:635]  D/CYITCPSocketPriv_Base: Setting options on socket: 7 with level: 65535, name: 4
+[2019-05-17 02:38:52:635]  D/CYITCPSocketPriv_Base: Socket: 7 bound
+[2019-05-17 02:38:52:635]  D/CYITCPSocketPriv_Base: Listening on socket: 7
+[2019-05-17 02:38:52:636]  D/CYIPersistentCache: Found [0] valid cache files on disk and removed [0] expired or corrupt ones.
+[2019-05-17 02:38:52:637]  I/CYIHTTPServiceStats: Requests Regular :    0 /    0 - Cancel / Itr :    0/   0
+[2019-05-17 02:38:52:637]  I/CYIHTTPServiceStats: Requests Cancel  :    0 /    0 - Before/After/Queue - Dropped :    0/   0   0 -    0
+[2019-05-17 02:38:52:637]  I/CYIHTTPServiceStats: Requests Timed out:    0
+[2019-05-17 02:38:52:637]  I/CYIHTTPServiceStats: Total number of bytes transferred: 0
+[2019-05-17 02:38:52:641]  W/CYIAssetLocator: Asset search path 'default' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:641]  I/CYIAssetLocator: Asset search paths for: drawable
+[2019-05-17 02:38:52:641]  W/CYIAssetLocator: Asset search path 'tablet' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:641]  W/CYIAssetLocator: Asset search path 'handset' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:641]  W/CYIAssetLocator: Asset search path 'default' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:641]  W/CYIAssetLocator: Asset search path 'tv' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:641]  I/CYIAssetLocator: Asset search paths for: layout
+[2019-05-17 02:38:52:642]  I/CYIAssetLocator: Asset search paths for: drawable
+[2019-05-17 02:38:52:642]  I/CYIAssetLocator:         default
+[2019-05-17 02:38:52:642]  W/CYIAssetLocator: Asset search path 'tablet' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:642]  W/CYIAssetLocator: Asset search path 'handset' is being discarded because it is not supported by any active asset configuration.
+[2019-05-17 02:38:52:642]  I/CYIAssetLocator: Asset search paths for: layout
+[2019-05-17 02:38:52:642]  I/CYIAssetLocator:         default
+[2019-05-17 02:38:52:643]  D/CYIAppPriv::Init: Draw skip is enabled.
+[2019-05-17 02:38:52:643]  I/CYITCPServer: Listening for incoming connection from port 54322...
+[2019-05-17 02:38:52:644]  I/CYICloudServer: Start Listening on port TCP(54322) and WebSocket(54323). Now WAITING_FOR_CLIENT.
+2019-05-16 19:38:52.833676-0700 DemoAppPure[5415:2374666] SecTaskLoadEntitlements failed error=22 cs_flags=20, pid=5415
+2019-05-16 19:38:52.833744-0700 DemoAppPure[5415:2374666] SecTaskCopyDebugDescription: DemoAppPure[5415]/0#-1 LF=0
+[2019-05-16 19:39:31] [fail] WebSocket Connection [::ffff:192.168.1.25]:59432 - "" - 0 websocketpp:22 The opening handshake timed out
