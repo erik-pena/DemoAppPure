@@ -62,6 +62,8 @@ Additionally the logs that were output in the Xcode Console for the You.i Engine
 
 [xcode-engine.log](./xcode-engine.log)
 
+-------
+
 Lastly, if I omit the port number off of the `-s` argument when attempting the deploy the app--
 
 ```bash
